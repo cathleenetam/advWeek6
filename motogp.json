@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "rider": "Valentino Rossi",
+        "team": "Monster Energy Yamaha MotoGP",
+        "bike": {
+            "manufacturer": "Yamaha",
+            "model": "YZR-M1"
+        },
+        "images": "https://loremflickr.com/320/240/cars?lock=1"
+    },
+    {
+        "id": 2,
+        "rider": "Maverick Viñales",
+        "team": "Monster Energy Yamaha MotoGP",
+        "bike": {
+            "manufacturer": "Yamaha",
+            "model": "YZR-M1"
+        },
+        "images": "https://loremflickr.com/320/240/cars?lock=2"
+    },
+    {
+        "id": 3,
+        "rider": "Marc Márquez",
+        "team": "Repsol Honda Team",
+        "bike": {
+            "manufacturer": "Honda",
+            "model": "RC213V"
+        },
+        "images": "https://loremflickr.com/320/240/cars?lock=3"
+    },
+    {
+        "id": 4,
+        "rider": "Andrea Dovizioso",
+        "team": "Ducati Team",
+        "bike": {
+            "manufacturer": "Ducati",
+            "model": "Desmosedici GP20"
+        },
+        "images": "https://loremflickr.com/320/240/cars?lock=4"
+    },
+    {
+        "id": 5,
+        "rider": "Fabio Quartararo",
+        "team": "Petronas Yamaha SRT",
+        "bike": {
+            "manufacturer": "Yamaha",
+            "model": "YZR-M1"
+        },
+        "images": "https://loremflickr.com/320/240/cars?lock=5"
+    },
+    {
+        "id": 6,
+        "rider": "Joan Mir",
+        "team": "Team Suzuki Ecstar",
+        "bike": {
+            "manufacturer": "Suzuki",
+            "model": "GSX-RR"
+        },
+        "images": "https://loremflickr.com/320/240/cars?lock=6"
+    },
+    {
+        "id": 7,
+        "rider": "Jack Miller",
+        "team": "Pramac Racing",
+        "bike": {
+            "manufacturer": "Ducati",
+            "model": "Desmosedici GP20"
+        },
+        "images": "https://loremflickr.com/320/240/cars?lock=7"
+    },
+    {
+        "id": 8,
+        "rider": "Aleix Espargaró",
+        "team": "Aprilia Racing Team Gresini",
+        "bike": {
+            "manufacturer": "Aprilia",
+            "model": "RS-GP"
+        },
+        "images": "https://loremflickr.com/320/240/cars?lock=8"
+    },
+    {
+        "id": 9,
+        "rider": "Takaaki Nakagami",
+        "team": "LCR Honda Idemitsu",
+        "bike": {
+            "manufacturer": "Honda",
+            "model": "RC213V"
+        },
+        "images": "https://loremflickr.com/320/240/cars?lock=9"
+    },
+    {
+        "id": 10,
+        "rider": "Johann Zarco",
+        "team": "Pramac Racing",
+        "bike": {
+            "manufacturer": "Ducati",
+            "model": "Desmosedici GP19"
+        },
+        "images": "https://loremflickr.com/320/240/cars?lock=10"
+    }
+]

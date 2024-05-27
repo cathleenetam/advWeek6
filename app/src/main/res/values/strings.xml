@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AdvWeek4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="student_id">Student ID</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_bod">Student Birth of Date</string>
+    <string name="student_phone">Student Phone</string>
+    <string name="update_btn">Update</string>
+</resources>
