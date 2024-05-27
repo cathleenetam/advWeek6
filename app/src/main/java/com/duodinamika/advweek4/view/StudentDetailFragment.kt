@@ -22,7 +22,7 @@ import java.util.concurrent.TimeUnit
 
 class StudentDetailFragment : Fragment() {
     private lateinit var detailViewModel: DetailViewModel
-    var txtId: TextView?=null mukl
+    var txtId: TextView?=null
     var txtName:TextView ?=null
     var txtBod:TextView ?=null
     var txtPhone:TextView ?=null
